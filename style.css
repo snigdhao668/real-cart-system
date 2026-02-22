@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+.product {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px 0;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
